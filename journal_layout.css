@@ -9,6 +9,20 @@ body {
 	background-color: white;
 }
 
+.content {
+	display: flex;
+}
+.slide{
+	margin: 10px;
+	flex-basis: 35%;
+}
+
+.card{
+	border: 4px blue solid;
+	padding: 5px;
+	background-color: #A8F0F0;
+}
+
 .box1 {
 	background-color: #A8F0F0;
 }
